@@ -1,2 +1,2 @@
 # Smart-Glasses-2.0
-its me Abhishek I developed a personal project, the name of the project is Smart Glasses 3.0 . the all project based on AI and they work as like Alexa , google assistant  and Siri..  i use normal sun glasses and attached with  micro controller  
+My team want to make some different so we decide to convert normal sun glasses to Ai based, the Sun glasses show you all things what you want and my team inspired from marvel iron man series there are one Ai based assistant the Ai name is Jarvis and my team got the point and implement the Jarvis into smart glasses.
